@@ -9,10 +9,10 @@
 ## 🚀 About Me
 I am a **Master's Degree student in Artificial Intelligence and Cybersecurity**, driven by the challenge of securing intelligent systems. My academic journey sits at the crossroads of **AI architectures** and **Offensive/Defensive Security**.
 
-Currently, I am deep-diving into my **Master's Thesis** regarding **Secure Multi-Agent Systems (MAS)**.
-My research focuses on designing agent architectures that rigorously enforce critical security properties in distributed environments:
-* **Core Security:** The CIA Triad (Confidentiality, Integrity, Availability).
-* **Trust & Governance:** Ensuring strong **Authenticity** and **Accountability** in agent interactions.
+Currently, I am working on my **Master's Thesis**: an Autonomous AI-Driven SOC Agent for Automated Threat Triage. My research focuses on securely integrating local Large Language Models into enterprise security environments:
+
+* **Stateful Orchestration**: Building deterministic reasoning loops using LangGraph and llama.cpp to semantically evaluate SIEM (Wazuh) telemetry and mitigate alert fatigue.
+* **Zero-Trust Boundaries**: Utilizing the Model Context Protocol (MCP) to securely isolate the AI's tool execution and enforce strict Human-in-the-Loop (HITL) safeguards.
 
 I enjoy exploring how autonomous agents can cooperate effectively without compromising security protocols.
 
